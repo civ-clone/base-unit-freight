@@ -13,7 +13,8 @@
   "files": [
     "Freight.js",
     "Freight.d.ts",
-    "Freight.js.map"
+    "Freight.js.map",
+    "Freight.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
